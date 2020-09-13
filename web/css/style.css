@@ -193,6 +193,10 @@ img {
   text-align: center;
 }
 
+.produtos_lista li img {
+  margin: 0 auto;
+}
+
 .produtos_lista li h3 {
   font-weight: bold;
   font-size: 18px;
@@ -220,11 +224,10 @@ img {
   padding: 20px;
   
 }
-.produtos_icone img {
-  /* padding-left: 30px; */
+/* .produtos_icone img {
   position: relative;
   left: 30px;
-}
+} */
 
 .call {
   padding-top: 40px;
