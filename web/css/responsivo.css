@@ -154,8 +154,14 @@
 		padding-right: 0px ;
 	}
 
-/* final do estilo para smartphones */
+	/* Contato */
 
+	.contato_form {
+		padding-right: 0px;
+		margin-bottom: 40px;
+	}
+
+/* final do estilo para smartphones */
 
 }
 
