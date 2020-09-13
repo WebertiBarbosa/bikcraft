@@ -2,13 +2,14 @@
 @media only screen and (min-width: 788px) and (max-width: 979px) {
 	/* qualidade home */
 	.qualidade::after {
-		right: 66px;
+		right: 76px;
 	}
 
 	.qualidade_lista li {
 		padding: 0 10px;
 	}
 
+	
 	/* footer */
 
 	.footer_redes ul li a{
@@ -53,6 +54,10 @@
 		border-color: #fff;
 	}
 
+	.header_menu ul li a.menu_ativo {
+		border-color: #fff;
+	}
+
 	/* Introducao */
 	.introducao h1 {
 		font-size: 36px;
@@ -63,6 +68,12 @@
 		padding-top: 40px;
 		background: url("../img/bg-mobile.jpg") no-repeat center;
 		background-size: cover;
+	}
+
+	/* Introducao interna */
+
+	.introducao-interna {
+		margin-top: 0px;
 	}
 
 	/* call */
@@ -76,4 +87,15 @@
 
 }
 
+/* sobre */
 
+.missao_sobre p {
+	font-size: 14px;
+	line-height: 20px;
+	padding-right: 0;
+}
+
+.missao_sobre ul li {
+	font-size: 14px;
+	line-height: 25px;
+}
