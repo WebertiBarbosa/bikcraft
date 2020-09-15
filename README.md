@@ -26,3 +26,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias.
 - [Html](https://www.w3.org/html/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
+- [PHP](https://www.php.net/)
