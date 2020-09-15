@@ -1,7 +1,7 @@
 <h1>BIKCRAFT</h1>
 
 <h1>
-    <img src= 'web/img/bikcraft.gif'> 
+    <img src= 'web/img/bikcraft2.gif'> 
 </h1>   
 
 
